@@ -2,6 +2,16 @@ body {
   font-family: "Raleway", sans-serif;
 }
 
+/* Nav */
+
+/* Estilo para la imagen en la barra de navegación */
+.navbar-brand img {
+  max-width: 100px;
+  display: block;
+  margin: 0 auto;
+}
+
+
 /* Hero Section */
 
 #Hero-Section {
